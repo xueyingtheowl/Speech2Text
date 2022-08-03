@@ -1,3 +1,3 @@
-# Speech2Text2Phoneme
+# Speech2Text
 
 Code for converting audio files iteratively to text. 
